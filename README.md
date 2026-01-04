@@ -12,6 +12,8 @@
 
 <br/>
 
-- 🌱 I’m currently learning KOTLIN
-- 🌱 I’m currently learning ANDROİD
+- 🌱 I’m currently learning TRANSFORMER MODELS
+- 🌱 I’m currently learning DEEP LEARNİNG
+- 🌱 I’m currently learning NATURAL LANGUAGE PROCESSING
+- 🌱 I’m currently learning DATA PROCESSING
 
