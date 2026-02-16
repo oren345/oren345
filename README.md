@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&color=EA3434&left=true&Left=true&width=800&height=100&lines=Business & Data Analyst with a Software Engineering background...." alt="Headline" />
+<img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&color=EA3434&left=true&Left=true&width=800&height=100&lines=Business+&+Data+Analyst+with+a+Software+Engineering+background...." alt="Headline" />
 
 <p align="center">
 	<a href="mailto:yazaganaysenur018@gmail.com"><img src="https://img.icons8.com/bubbles/75/000000/gmail.png" alt="Gmail"/></a>
